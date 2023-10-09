@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\bin\Debug\Uygulama if else if 1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\bin\Debug\Uygulama if else if 1.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\bin\Debug\Uygulama if else if 1.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama if else if 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama if else if 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama_if_else_if_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama_if_else_if_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama if else if 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama if else if 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama if else if 1.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama if else if 1\Uygulama if else if 1\obj\Debug\Uygulama if else if 1.pdb
